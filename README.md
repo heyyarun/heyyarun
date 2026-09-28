@@ -8,8 +8,7 @@ Currently exploring agent orchestration, developer tools, and what happens when 
 ```text
 arun@localhost ~ % ./current
 
-  building      →  offrun.dev
-  thinking      →  agent orchestration
+  building      →  agent infrastructure
   exploring     →  local-first software · ai infra · devtools
   optimizing    →  human attention
   status        →  shipping
