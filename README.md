@@ -1,6 +1,6 @@
 # Arun Bhatia
 
-Founder & engineer. Previously co-founded and built MedPay.  
+Founder & engineer. Previously co-founded and built MedPay(health tech startup based out of Bangalore, India)  
 Currently exploring agent orchestration, developer tools, and what happens when software starts operating software.
 
 <br>
